@@ -1,0 +1,36 @@
+.real-estate-filter-form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.real-estate-filter {
+    margin: 2rem 0;
+}
+
+.real-estate-filter-btn {
+    margin-top: 12px;
+}
+
+.real-estate-filter-results {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.real-estate-filter-results .real-estate-item {
+    width: 19%;
+    margin: 0 0.5%;
+}
+
+.real-estate-item img {
+    max-height: 150px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.real-estate-filter-results .real-estate-pagination {
+    width: 100%;
+    margin: 1.5rem 0;
+    text-align: center;
+}

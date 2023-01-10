@@ -1,0 +1,19 @@
+.single-real-estate-content-wrapper {
+    padding: 3rem 2rem;
+}
+
+.single-real-estate-top-block {
+	display: flex;
+}
+
+.single-real-estate-image-wrapper {
+	width: 50%;
+}
+
+.single-real-estate-main-info {
+	padding: 2rem;
+}
+
+.single-real-estate-main-info span {
+	display: block;
+}
